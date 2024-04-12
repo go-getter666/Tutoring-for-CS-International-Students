@@ -11,5 +11,5 @@
 ### WeChat:ManbaBert666666
 ### QQ: 2317702022
 曾在辅导的订单通过如下所示：  
-![辅导通过案例](https://github.com/go-getter666/Tutoring-for-CS-International-Students/blob/main/%E8%BE%85%E5%AF%BC%E7%BB%8F%E5%8E%863.png "辅导通过案例")  
+![辅导通过案例]([https://github.com/go-getter666/Tutoring-for-CS-International-Students/blob/main/%E8%BE%85%E5%AF%BC%E7%BB%8F%E5%8E%863.png](https://github.com/go-getter666/Tutoring-for-CS-International-Students/blob/main/%E8%BE%85%E5%AF%BC%E7%BB%8F%E5%8E%86.png) "辅导通过案例")  
 
